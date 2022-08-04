@@ -1,0 +1,23 @@
+public class IntegerLinkedList {
+        private IntegerNode head;
+            public boolean isEmpty() {   
+                return head == null;  }
+            public void insertFront(int val) {
+                   // your code here  
+                   }    
+            public void insertBack(int val) {  
+                 // your code here     
+                 }
+            public void print() {
+           // your code here  }    
+           public int get(int index) {   
+               // your code here
+               return -1;   }
+            public void removeFront() {
+                   // your code here 
+                    }    
+            public void removeBack() { 
+                  // your code here
+                    } 
+ 
+}
