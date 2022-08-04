@@ -1,0 +1,114 @@
+Processing AAPL
+======================
+Crazy day: 8/24/2015	15.44
+Crazy day: 5/6/2010	22.85
+Crazy day: 10/17/2008	15.83
+Crazy day: 10/10/2008	15.00
+Crazy day: 9/29/2008	15.95
+Crazy day: 1/6/1998	26.25
+Crazy day: 1/2/1998	16.92
+Total crazy days = 7
+The craziest day: 1/6/1998	26.25
+
+2:1 split on 2/25/2005       88.99 -->   44.68
+2:1 split on 9/28/2000       53.50 -->   28.19
+2:1 split on 6/20/2000      101.25 -->   50.50
+Total number of splits: 3
+
+Processing FB
+======================
+Crazy day: 5/18/2012	15.56
+Total crazy days = 1
+The craziest day: 5/18/2012	15.56
+
+Total number of splits: 0
+
+Processing GOOG
+======================
+Total crazy days = 0
+
+Total number of splits: 0
+
+
+Processing IBM
+======================
+Total crazy days = 0
+
+2:1 split on 5/26/1999	236.25 --> 116.69
+2:1 split on 5/27/1997	179.25 --> 90.50
+Total number of splits: 2
+
+
+Processing INTC
+======================
+Crazy day: 10/28/1997	20.17
+Total crazy days = 1
+The craziest day: 10/28/1997	20.17
+
+2:1 split on 7/28/2000      129.13 -->   65.44
+2:1 split on 4/9/1999      130.81 -->   61.63
+2:1 split on 7/11/1997      153.81 -->   77.25
+2:1 split on 6/16/1995      116.12 -->   58.50
+2:1 split on 6/4/1993      112.75 -->   60.12
+Total number of splits: 5
+
+Processing MSFT
+======================
+Total crazy days = 0
+
+2:1 split on 2/14/2003       48.30 -->   24.62
+2:1 split on 3/26/1999      178.13 -->   90.13
+2:1 split on 2/20/1998      155.12 -->   80.94
+2:1 split on 12/6/1996      152.88 -->   78.38
+2:1 split on 5/20/1994       97.75 -->   49.00
+3:2 split on 6/12/1992      112.50 -->   75.00
+3:2 split on 6/26/1991      100.75 -->   67.75
+2:1 split on 4/12/1990      120.75 -->   61.00
+Total number of splits: 8
+
+Processing YHOO
+======================
+Crazy day: 12/2/2008	16.00
+Crazy day: 11/19/2008	21.68
+Crazy day: 10/16/2008	17.19
+Crazy day: 7/11/2002	15.58
+Crazy day: 10/4/2001	16.48
+Crazy day: 6/20/2001	17.34
+Crazy day: 4/3/2001	16.87
+Crazy day: 1/3/2001	20.21
+Crazy day: 12/12/2000	16.61
+Crazy day: 12/11/2000	17.35
+Crazy day: 11/21/2000	15.50
+Crazy day: 10/18/2000	16.94
+Crazy day: 10/17/2000	15.48
+Crazy day: 10/12/2000	16.94
+Crazy day: 4/14/2000	17.93
+Crazy day: 4/4/2000	22.37
+Crazy day: 12/7/1999	18.94
+Crazy day: 8/5/1999	15.14
+Crazy day: 4/19/1999	15.58
+Crazy day: 4/5/1999	16.29
+Crazy day: 2/16/1999	15.42
+Crazy day: 1/13/1999	18.23
+Crazy day: 1/12/1999	16.48
+Crazy day: 1/11/1999	18.31
+Crazy day: 9/1/1998	22.88
+Crazy day: 8/31/1998	20.95
+Crazy day: 10/28/1997	27.02
+Crazy day: 10/27/1997	19.15
+Crazy day: 1/20/1997	15.20
+Crazy day: 8/13/1996	17.07
+Crazy day: 6/27/1996	17.05
+Crazy day: 4/15/1996	16.67
+Crazy day: 4/12/1996	43.02
+Total crazy days = 33
+The craziest day: 4/12/1996	43.02
+
+2:1 split on 5/11/2004	53.53 --> 26.81
+2:1 split on 2/11/2000	342.69 --> 173.50
+2:1 split on 2/5/1999	345.50 --> 172.75
+2:1 split on 7/31/1998	181.94 --> 90.00
+3:2 split on 8/29/1997	59.50 --> 40.25
+Total number of splits: 5
+
+

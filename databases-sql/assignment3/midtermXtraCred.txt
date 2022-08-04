@@ -1,0 +1,2 @@
+True/False - 
+The height of the tree is dependent on the base-case occuring in each leaf.
